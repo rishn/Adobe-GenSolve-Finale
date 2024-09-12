@@ -1,8 +1,15 @@
 analysis
-input_videos
-models
+
+input_videos/image.png
+
+models/keypoints_model.pth
+models/yolo5_last.pt
+
 runs
-output_videos
+
+output_videos/output_video.avi
+output_videos/screenshot.jpeg
+
 tracker_stubs
 training
 

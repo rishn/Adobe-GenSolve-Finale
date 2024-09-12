@@ -1,0 +1,13 @@
+analysis
+input_videos
+models
+runs
+output_videos
+tracker_stubs
+training
+
+live.py
+
+yolo_inference.py
+
+yolov8x.pt

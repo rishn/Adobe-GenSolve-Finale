@@ -1,3 +1,4 @@
 torch 
 ultralytics 
 opencv-contrib-python
+moviepy

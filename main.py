@@ -42,7 +42,6 @@ def main():
     # Detect Players and Ball
     player_tracker = PlayerTracker(model_path="yolov8x")
     ball_tracker = BallTracker(model_path="models/yolo5_last.pt")
-    rewrite = 0
 
     frame_copy = video_frames[0].copy()
 

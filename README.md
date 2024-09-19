@@ -1,9 +1,11 @@
-# Adobe-GenSolve24-Finale 
-# GameSense Tennis
+# GameSense Tennis (Adobe GenSolve24 Finale)
+![image](https://github.com/user-attachments/assets/0fc954a7-d2f7-4dd0-8aee-e49003399b04)
 
 ## Overview
 
 This project focuses on detecting and analyzing tennis court scenarios using advanced computer vision techniques. It aims to identify players, balls, and keypoints on the tennis court from video frames, providing valuable insights into the game.
+
+GameSense Tennis was developed as part of the final round of Adobe GenSolve 24, where our team, Status 200, was one of the six national finalists. The project was built on Linux Ubuntu, but it is fully compatible and runnable on Windows or macOS systems.
 
 ## Models
 
@@ -35,11 +37,11 @@ Follow these steps to set up and run the project:
 
 2. **Install Required Packages**
 
-Install the necessary Python packages listed in the requirements.txt file:
+   Install the necessary Python packages listed in the requirements.txt file:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. **Download Model Files**
 
     Download the pre-trained model files and place them in the models directory of your project:
@@ -57,7 +59,6 @@ pip install -r requirements.txt
     Execute the main.py script to start the processing of your videos:
 
     ```bash
-
     python main.py
     ```
     This script will process the video files, perform object detection, and visualize the results.
@@ -75,8 +76,11 @@ pip install -r requirements.txt
 
     Court Visualization: The keypoint detection model accurately mapped the tennis court, facilitating precise tracking and analysis of game elements.
 
-3. Demos
-   - [Demo Video 1](https://drive.google.com/file/d/1C6hCxHLA5mDjwpz_RFkMMXlPcXH6rdGU/view?usp=sharing)
-   - [Demo Video 2](https://drive.google.com/file/d/10MJn5cfFI6GRGhJvFFAGVz9s3HGCY51-/view?usp=sharing)
-   - [Demo Video 3](https://drive.google.com/file/d/15DJiDQyqFjkBanO7N2Q7GAfHKLBkOQiX/view?usp=sharing)
+## Demos
+
+https://github.com/user-attachments/assets/789f5ab2-abac-40c5-9b52-91d50785a02e
+
+https://github.com/user-attachments/assets/87ae329c-4c16-4783-abe0-71336734a7b5
+
+https://github.com/user-attachments/assets/307ca66f-b572-482d-9235-e497fb8f7a47
 

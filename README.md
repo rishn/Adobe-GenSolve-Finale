@@ -1,4 +1,4 @@
-# GameSense Tennis (Adobe GenSolve24 Finale)
+# GameSense Tennis (Adobe GenSolve 2024 Finale)
 ![image](https://github.com/user-attachments/assets/0fc954a7-d2f7-4dd0-8aee-e49003399b04)
 
 ## Overview

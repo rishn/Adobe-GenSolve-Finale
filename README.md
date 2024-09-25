@@ -31,7 +31,7 @@ Follow these steps to set up and run the project:
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/rishn/Adobe-GenSolve24-Finale.git
+   git clone https://github.com/rishn/Adobe-GenSolve-Finale.git
    cd Adobe-GenSolve24-Finale
    ```
 
